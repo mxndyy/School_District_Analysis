@@ -4,8 +4,17 @@ The purpose of this analysis was to determine the math and reading scores for th
 
 ## Results
   How is the district summary affected?
+  The district summary is barely affected considering the 9th grade students only make up approximately 1% of the original data set (461 students)
   
   How is the school summary affected?
+  The school that was most affected is Thomas High School after the removal of the 9th grade score by the new analysis, as they were the only school to have any students removed from the new analysis. Thomas High School saw a slight decrease in their average math scores and math passing rate, from 93.27% to 93.19%, and even though their average reading score improved, the reading passing rate also saw a slight decrease, from 97.31% to 97.02%. These changes in their math and reading passing rates also led to their overall passing rate decreasing from 90.95% originally to 90.63% after removing their 9th grade class. 
+  Original school summary tables with Thomas High School
+  
+  
+  School summary with removal 
+  
+  
+  
   
   How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
