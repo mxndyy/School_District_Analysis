@@ -26,9 +26,18 @@ As mentioned previously, replacing the ninth graders' math and reading scores af
 
 The changes in the data only impacted Thomas High School's 9th grade class in terms of scores by grade, none of the other average scores and passing rates by school were impacted by the changes, and Thomas High School's 10th - 12th grades were also unchanged.
 
-#### Scores by school spending
+#### Scores by school spending, size, and type.
+The scores by school spending, school size and school type also all look to be mostly unaffected by removing the 9th grade class from Thomas High School from the data. The scores and passing rates for Thomas High School's categories (the $630-$644 spending range, Medium size, Charter school) look to be about the same for the original and new analysis. This can be attributed to the small percentage the 9th graders make up of the large dataset as well as the rounding formatting applied to both data sets. 
 
+![Resources/Per_school_bins_original](/Resources/Per_school_bins_original.png)
 
-Scores by school size
-Scores by school type
-  
+![Resources/bins_removal](/Resources/bins_removal.png)
+
+![Resources/size_summary_original](/Resources/size_summary_original.png)
+
+![Resources/size_summary_removal](/Resources/size_summary_removal.png) 
+
+![Resources/type_summary_original](/Resources/type_summary_original.png) 
+
+![Resources/type_summary_removal](/Resources/type_summary_removal.png) 
+
