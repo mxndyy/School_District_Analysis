@@ -29,15 +29,20 @@ The changes in the data only impacted Thomas High School's 9th grade class in te
 #### Scores by school spending, size, and type.
 The scores by school spending, school size and school type also all look to be mostly unaffected by removing the 9th grade class from Thomas High School from the data. The scores and passing rates for Thomas High School's categories (the $630-$644 spending range, Medium size, Charter school) look to be about the same for the original and new analysis. This can be attributed to the small percentage the 9th graders make up of the large dataset as well as the rounding formatting applied to both data sets. 
 
+#### Original per school spending 
 ![Resources/Per_school_bins_original](/Resources/Per_school_bins_original.png)
 
+#### Spending bins after removal
 ![Resources/bins_removal](/Resources/bins_removal.png)
 
+#### Original size summary
 ![Resources/size_summary_original](/Resources/size_summary_original.png)
 
+#### Removal size summary
 ![Resources/size_summary_removal](/Resources/size_summary_removal.png) 
 
+#### Type summary original
 ![Resources/type_summary_original](/Resources/type_summary_original.png) 
 
+#### Type summary removal
 ![Resources/type_summary_removal](/Resources/type_summary_removal.png) 
-
