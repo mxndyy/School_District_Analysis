@@ -9,22 +9,26 @@ The purpose of this analysis was to determine the math and reading scores for th
   How is the school summary affected?
   The school that was most affected is Thomas High School after the removal of the 9th grade score by the new analysis, as they were the only school to have any students removed from the new analysis. Thomas High School saw a slight decrease in their scores, passing percentages and overall passing percentages.  These changes in their math and reading passing rates also led to their overall passing rate decreasing from 90.95% originally to 90.63% after removing their 9th grade class. See images below for specific numeric details. 
   
-  Original school summary tables with Thomas High School
+### Original school summary tables with Thomas High School
   
   ![Resources/Original_school_summary](/Resources/Original_school_summary.png)
   
-  School summary with removal 
+### School summary with removal 
   
   ![Resources/Removal_school_summary](/Resources/Removal_school_summary.png)
   
-  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+As mentioned previously, replacing the ninth graders' math and reading scores affects Thomas High School's performance negatively by decreasing their overall passing percentages. The remaining schools individual performance were not affected by the removal. However, it's important to note that even with the removal of the ninth grade reading scores, Thomas high school maintained their #2 spot in the top 5 high performing schools. 
   
-  How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
+#### Math and reading scores by grade 
+
+The changes in the data only impacted Thomas High School's 9th grade class in terms of scores by grade, none of the other average scores and passing rates by school were impacted by the changes, and Thomas High School's 10th - 12th grades were also unchanged.
+
+#### Scores by school spending
+
+
+Scores by school size
+Scores by school type
   
-    Math and reading scores by grade
-    
-    Scores by school spending
-    
-    Scores by school size
-    
-    Scores by school type
